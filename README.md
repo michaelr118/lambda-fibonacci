@@ -62,5 +62,3 @@ You will now be automatically redirected to the new Lambda function.
 * Once finished, ```Add``` your new API and ```Save```
 
 Under ```Details``` for your newly created API, you will find ```Invoke URL```. This is the URL from the usage example above. You will want to save the URL and use it whenever you need to know the next Fibonacci number in sequence.
-
-Setup is now complete
